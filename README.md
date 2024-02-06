@@ -14,6 +14,12 @@ I believe that continuous learning is the key to success in cybersecurity. Every
 ## Get in Touch
 If you share a passion for cybersecurity, CTFs, or simply want to connect, feel free to reach out to me. I am always eager to collaborate and learn from like-minded individuals. Let's make the digital world more secure together!
 
+
+- 🔭 I’m currently working on CTFs
+- 👯 I’m looking to collaborate on any projects in the cybersecurity field
+- 📫 How to reach me: mdshaafi03@gmail.com
+- 💻 Check out my CTF Writeups right here
+
 <!--
 **MDShaafi/MDShaafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
