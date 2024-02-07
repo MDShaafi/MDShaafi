@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate cybersecurity student and a CTF (Capture The Flag) enthusiast on a journey to become an ethical hacker or a security analyst. 🚀
+I'm Mohamed Shaafi, a passionate cybersecurity student and a CTF (Capture The Flag) enthusiast on a journey to become an ethical hacker or a security analyst. 🚀
 
 ## About Me
 I am deeply fascinated by the world of cybersecurity and the challenges it presents. My goal is to contribute to the ever-evolving field of information security and help make the digital world a safer place for everyone. Currently, I am sharpening my CTF skills by actively participating in numerous Capture The Flag competitions.
